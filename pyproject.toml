@@ -3,3 +3,4 @@ name = "halogen-server"
 version = "0.1.0"
 description = "The fastest way to run Qwen3.8 27B on Strix Halo (gfx1151)"
 requires-python = ">=3.10"
+# handle the edge case from the last release
